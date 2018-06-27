@@ -1,4 +1,4 @@
-# Scrwey you bastard!
+# Not nice!
 A new swc repository.
 # Another heading
 
